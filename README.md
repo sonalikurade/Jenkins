@@ -14,6 +14,8 @@ Jenkins is an open-source automation server that is extensively used for continu
 # Core Components
 1. Jobs: The basic unit of work in Jenkins, which can be configured to perform various tasks like building code, running tests, or deploying applications.
 
+2. Nodes: Machines that Jenkins uses to run jobs. The primary node is the master, and additional nodes are called agents or slaves.
+
 # How Jenkins Works
 ### 1. Installation and Setup
 * Jenkins can be installed on various platforms including Windows, macOS, and Linux. It can also run in a Docker container.
