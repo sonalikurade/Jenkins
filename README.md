@@ -10,6 +10,10 @@ Jenkins is an open-source automation server that is extensively used for continu
 4. Pipeline as Code: Jenkins supports defining build pipelines using code, often through Jenkinsfile, which is a text file that contains the definition of a Jenkins Pipeline and is checked into source control.
 
 5. Integration with Other Tools: Jenkins integrates with various tools and services, including version control systems (like Git), build tools (like Maven and Gradle), and testing frameworks (like JUnit).
+
+# Core Components
+1. Jobs: The basic unit of work in Jenkins, which can be configured to perform various tasks like building code, running tests, or deploying applications.
+
 # How Jenkins Works
 ### 1. Installation and Setup
 * Jenkins can be installed on various platforms including Windows, macOS, and Linux. It can also run in a Docker container.
