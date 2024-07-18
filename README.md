@@ -16,6 +16,10 @@ Jenkins is an open-source automation server that is extensively used for continu
 
 2. Nodes: Machines that Jenkins uses to run jobs. The primary node is the master, and additional nodes are called agents or slaves.
 
+3. Plugins: Extensions that add functionality to Jenkins, enabling integration with other tools, platforms, and services.
+
+4. Pipelines: A sequence of steps that define the process for building, testing, and deploying applications. Pipelines can be defined in Jenkinsfiles using a Groovy-based DSL.
+
 # How Jenkins Works
 ### 1. Installation and Setup
 * Jenkins can be installed on various platforms including Windows, macOS, and Linux. It can also run in a Docker container.
